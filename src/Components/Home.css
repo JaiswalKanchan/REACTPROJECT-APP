@@ -1,0 +1,17 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    background: linear-gradient(45deg, #6811cbe1, #25fcfc94);
+    color: black;
+    text-align: center;
+}
+
+.welcome-text {
+    margin-top: 20px;
+    font-size: 3.5rem;
+    font-weight: bold;
+    border-top: black;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}

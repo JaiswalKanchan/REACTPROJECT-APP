@@ -1,0 +1,14 @@
+.table {
+    width: 100%;
+    height: 200px;
+    border-collapse: collapse;
+
+    border: 2px solid rgba(116, 65, 41, 0.212);
+    text-align: center;
+}
+th {
+    border: 1px solid rgba(116, 41, 45, 0.075);
+}
+td {
+    border: 1px solid rgba(116, 41, 85, 0.096);
+}
